@@ -3,7 +3,7 @@ import 'package:taskly/main_screen.dart';
 import 'package:taskly/models/toDoModel.dart';
 
 class EditTodoScreen extends StatefulWidget {
-  EditTodoScreen({super.key, required this.todoModel});
+  const EditTodoScreen({super.key, required this.todoModel});
 
   final TodoModel todoModel;
 

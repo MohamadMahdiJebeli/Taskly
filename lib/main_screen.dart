@@ -144,7 +144,7 @@ class TodoItem extends StatelessWidget {
           onTap: () {
             ScaffoldMessenger.of(context).showSnackBar(
               SnackBar(
-                content: Text(todo.description),
+                content: Text(todo.description,style: TextStyle(color: Colors.black),),
                 backgroundColor: Theme.of(context).colorScheme.surface,
                 action: SnackBarAction(
                   label: "Edit",

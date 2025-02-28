@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:taskly/main_screen.dart';
 import 'package:taskly/models/toDoModel.dart';
+import 'package:taskly/splash_screen.dart';
 
 const String todoBox = 'todo-box';
 
@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
                 borderRadius: BorderRadius.circular(5),
                 borderSide: BorderSide(color: Colors.blue.withOpacity(.5)))),
       ),
-      home: MainScreen(),
+      home: SplashScreen(),
     );
   }
 }
