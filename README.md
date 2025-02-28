@@ -1,16 +1,13 @@
-# taskly
+*<img src="https://github.com/user-attachments/assets/4d7bdd2c-01a1-4d00-a583-a429d5520597" alt="Taskly Logo" width="150" />*
 
-A new Flutter project.
+**✅ Taskly - Smart Task Manager** : The Taskly App is a Flutter-based application designed to help users manage their tasks efficiently. This app allows users to organize their daily activities and track their productivity with ease.  
 
-## Getting Started
+🚀 Features:  
 
-This project is a starting point for a Flutter application.
+- Create, edit, and delete tasks effortlessly  
+- Organize tasks into customizable lists  
+- User-friendly and intuitive interface for a smooth experience
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images :
+<img src="https://github.com/user-attachments/assets/e5eb22f6-e277-4305-be81-eb4961313f97" alt="Taskly 1" width="200" />
+<img src="https://github.com/user-attachments/assets/4708b034-d828-4ba0-aa84-3931071ade28" alt="Taskly 2" width="200" />
